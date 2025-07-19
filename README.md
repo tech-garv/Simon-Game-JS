@@ -2,6 +2,10 @@
 
 A web-based version of the classic **Simon Game** built using **HTML**, **CSS**, **JavaScript**, and **jQuery**.
 
+## 🔗 Live Demo
+
+Play it here: (https://tech-garv.github.io/Simon-Game-JS/)
+
 ---
 
 ## 🧠 How to Play
