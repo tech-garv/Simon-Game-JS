@@ -4,7 +4,7 @@ A web-based version of the classic **Simon Game** built using **HTML**, **CSS**,
 
 ## 🔗 Live Demo
 
-Play it here: (https://tech-garv.github.io/Simon-Game-JS/)
+Play it here : (https://tech-garv.github.io/Simon-Game-JS/)
 
 ---
 
